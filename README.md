@@ -22,3 +22,15 @@ I'm building a hands-on AWS & DevOps portfolio focused on:
 - 🔐 Applying AWS security and identity best practices
 - ♻️ Exploring high availability, disaster recovery, and scalable infrastructure
 - 📝 Documenting projects, challenges, and lessons learned
+
+## 🛠️ Tech Stack
+
+☁️ AWS  
+🐧 Linux & Ubuntu  
+🐍 Python  
+💻 Bash  
+🐳 Docker & Containers  
+🔧 Git & GitHub  
+🏗️ CloudFormation & AWS CDK  
+🔄 CI/CD  
+📊 CloudWatch & AWS Systems Manager
