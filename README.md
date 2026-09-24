@@ -34,3 +34,22 @@ I'm building a hands-on AWS & DevOps portfolio focused on:
 🏗️ CloudFormation & AWS CDK  
 🔄 CI/CD  
 📊 CloudWatch & AWS Systems Manager
+## ☁️ AWS Services
+
+**Compute:** EC2 • Auto Scaling • Lambda • ECS
+
+**Storage:** S3 • EBS • Glacier
+
+**Networking:** VPC • Route 53 • Elastic Load Balancing • API Gateway
+
+**Databases:** RDS • DynamoDB
+
+**Security & Identity:** IAM • KMS
+
+**Infrastructure as Code:** CloudFormation • AWS CDK
+
+**CI/CD:** CodeBuild • CodeDeploy • CodePipeline
+
+**Monitoring & Operations:** CloudWatch • Systems Manager
+
+**Reliability:** Disaster Recovery • Centralized Logging & Metrics • Incident Response
